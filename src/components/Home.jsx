@@ -19,7 +19,7 @@ const Home = () => {
         </div>
         <div className="flex flex-col justify-center h-full">
           <h2 className="text-4xl sm:text-5xl font-bold text-white">
-            I'm a Frontend Developer, Android Developer and Competitive programmer.
+            I'm a Frontend Developer, Android Developer and Competitive Programmer.
           
           </h2>
      

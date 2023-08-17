@@ -8,9 +8,9 @@ import cpp from "../assets/c++.png";
 import python from "../assets/python.png";
 import github from "../assets/github.png";
 import kotlin from "../assets/kotimage.png";
-import node from "../assets/node.png";
-import express from "../assets/express.png"
-import mongodb from "../assets/mongodb.png"
+// import node from "../assets/node.png";
+// import express from "../assets/express.png"
+// import mongodb from "../assets/mongodb.png"
 import redux from "../assets/redux.png"
 const Experience = () => {
   const techs = [
